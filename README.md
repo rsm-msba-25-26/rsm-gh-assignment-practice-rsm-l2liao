@@ -31,10 +31,10 @@ Provide the information requested below. Then (1) save this markdown (md) file, 
 
 Provide the information requested below:
 
-- Last name:Liao
-- First (or preferred) name:Lele
-- Favorite food:BBQ
-- Favorite recent Netflix movie or show:Mission Impossible 8
+- Last name: Liao
+- First (or preferred) name: Lele
+- Favorite food: BBQ
+- Favorite recent Netflix movie or show: Mission Impossible 8
 
 ---
 
